@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625426183 source:d:\cpp\test2\src\punkt.cpp
+	"Punkt.h"
+
+1625426155 d:\cpp\test2\include\punkt.h
+	<iostream>
+
+1625426439 source:d:\cpp\test2\main.cpp
+	<iostream>
+	"Punkt.h"
+
